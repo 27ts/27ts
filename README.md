@@ -6,4 +6,4 @@
 I hope to learn LUA
 
 Lanagues I want to learn and tools i use.
-![](channels4_profile.jpg
+![](lua30.gif
