@@ -6,4 +6,4 @@
 I hope to learn LUA
 
 Lanagues I want to learn and tools i use.
-![](images/images.png)
+![](images/lua.png)
